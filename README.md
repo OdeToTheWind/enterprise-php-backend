@@ -266,7 +266,7 @@ This stack ensures **progressive learning** — you start with pure PHP + XAMPP 
    composer test      # PHPUnit
    ```
 
-Each demo folder contains its own detailed `README.md` with setup and learning notes.
+### Each demo folder contains its own detailed `README.md` with setup and learning notes.
 ---
 
 ## Contributing
